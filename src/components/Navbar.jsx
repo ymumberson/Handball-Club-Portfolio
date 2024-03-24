@@ -17,13 +17,13 @@ const Navbar = () => {
   return (
     <div>
       <header>
-        <nav>
-          <a href="#welcome">Welcome</a>
-          <ul className={`${styles.navMenu} ${isActive ? styles.active : ""}`}>
+        <nav className="navbar">
+          <a href="#welcome" className="navMenuText">TODO_LOGO</a>
+          <ul className="navMenu">
             {navLinks.map((link) => {
               return (
                 <li key={link.id}>
-                  <a href={`#${link.id}`}>{link.title}</a>
+                  <a href={`#${link.id}`} className="navMenuText">{link.title}</a>
                 </li>
               );
             })}

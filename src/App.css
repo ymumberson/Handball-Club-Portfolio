@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  gap: 40px;
+  min-height: 70px;
+  background-color: aliceblue;
+  box-sizing: border-box;
+}
+
+.navMenu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 60px;
+  list-style: none;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navMenuText {
+  color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.15s, font-weight 0.15s;
+}
+
+/* .navMenuText:hover {
+  background-color: rgb(173, 217, 255);
+} */
