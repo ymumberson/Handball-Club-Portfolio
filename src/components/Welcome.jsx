@@ -49,6 +49,7 @@ const Welcome = () => {
     // <div>Welcome</div>
     <div style={{width: "100vw", aspectRatio: 16/6}}>
     <Canvas
+      className="canvas"
       shadows
       frameloop="demand"
       gl={{

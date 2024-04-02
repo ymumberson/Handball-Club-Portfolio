@@ -45,7 +45,7 @@
   gap: 40px;
   min-height: 70px;
   background-color: aliceblue;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 .navMenu {
@@ -59,19 +59,29 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
 }
 
 .navMenuText {
+  display: block;
+  position: relative;
   color: black;
   text-decoration: none;
   border-radius: 5px;
-  transition: background-color 0.15s, font-weight 0.15s;
+  transition-duration: 0.2s;
 }
 
+.navMenuText:hover {
+  text-shadow: 0 0 0.65px #222222, 0 0 0.65px #222222;
+  transition-duration: 0.2s;
+}
+
+.canvas {
+  background-color: rgb(116, 179, 175);
+}
 
 /* These CSS styles only apply to small screens */
-@media screen and (max-width: 780px){
+@media screen and (max-width: 780px) {
   .hamburger {
     display: block;
     cursor: pointer;
@@ -87,13 +97,13 @@
     transition: 0.3s ease-in-out;
   }
 
-  .hamburger.active .bar:nth-child(2){
+  .hamburger.active .bar:nth-child(2) {
     opacity: 0;
   }
-  .hamburger.active .bar:nth-child(1){
+  .hamburger.active .bar:nth-child(1) {
     transform: translateY(8px) rotate(45deg);
   }
-  .hamburger.active .bar:nth-child(3){
+  .hamburger.active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
   }
 
@@ -118,4 +128,3 @@
     margin: 16px 0;
   }
 }
-
