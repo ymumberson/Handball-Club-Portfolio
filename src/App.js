@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import background from "./assets/pexels-codioful-formerly-gradienta-7130534.jpg";
 
 import {
   About,
@@ -18,23 +19,8 @@ import {
 
 function App() {
   return (
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
-    <div>
+    // <div style={{backgroundImage: `url(${background})`}}>
+    <div style={{backgroundColor: "honeydew"}}>
       <Navbar />
       <Welcome />
       <About />
