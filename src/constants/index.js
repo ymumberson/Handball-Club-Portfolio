@@ -267,3 +267,65 @@ export const achievementsList = [
         ]
     },
 ]
+
+/* PLACEHOLDER */
+export const gallaryPhotos = [
+    {
+        img: "https://images.ctfassets.net/sfnkq8lmu5d7/4Ma58uke8SXDQLWYefWiIt/3f1945422ea07ea6520c7aae39180101/2021-11-24_Singleton_Puppy_Syndrome_One_Puppy_Litter.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg"
+    },
+    {
+        img: "https://hips.hearstapps.com/hmg-prod/images/month-pure-breed-beagle-puppy-on-gray-screen-royalty-free-image-865226542-1566913909.jpg?resize=2048:*"
+    },
+    {
+        img: "https://www.purina.co.uk/sites/default/files/styles/ttt_image_510/public/2021-09/Bichon%20Frise%20puppy%20running%20outside.jpg?itok=4FLM7MCl"
+    },
+    {
+        img: "https://www.thesprucepets.com/thmb/YBO6dLNaRUrr34ra0W4KGim00q4=/6411x0/filters:no_upscale():strip_icc()/puppies-three-to-six-months-4570930-hero-bf2f59d75dcb4294991d6bd8cd51ec7c.jpg"
+    },
+    {
+        img: "https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg"
+    },
+    {
+        img: "https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/1583002816518-ZH2PH7Y8NY21KG3YYKNL/Screen+Shot+2020-02-26+at+2.33.24+PM.png"
+    },
+    {
+        img: "https://hips.hearstapps.com/hmg-prod/images/popular-puppy-questions-1639736471.jpg?crop=0.670xw:1.00xh;0.282xw,0&resize=640:*"
+    },
+]
+
+export const goals = [
+    // {
+    //     text: bulgarian ? "ОСНОВНИТЕ ЦЕЛИ ПРЕД НАС СА РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ, УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ, СЪЗДАВАНЕ НА НАЦИОНАЛНИ СЪСТЕЗАТЕЛИ И В ДВАТА ПОЛА. ПОВИШАВАНЕТО НА НИВОТО НА ВСИЧКИ СПОРТИСТИ В КЛУБА, КОЕТО ДА ДОВЕДЕ ДО УЧАСТИЕ В „А“ РЕПУБЛИКАНСКА ХАНДБАЛНА ГРУПА ЗА ЖЕНИ И МЪЖЕ. СЪЩО ТАКА С ОТБОРИТЕ ДА ВЗЕМЕМ УЧАСТИЕ В МЕЖДУНАРОДНИ ТУРНИРИ."
+    //     : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    // }
+    {
+        text: bulgarian ? "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ." : ""
+    },
+    {
+        text: bulgarian ? "УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ." : ""
+    },
+    {
+        text: bulgarian ? "СЪЗДАВАНЕ НА НАЦИОНАЛНИ СЪСТЕЗАТЕЛИ И В ДВАТА ПОЛА." : ""
+    },
+    {
+        text: bulgarian ? "ПОВИШАВАНЕТО НА НИВОТО НА ВСИЧКИ СПОРТИСТИ В КЛУБА, КОЕТО ДА ДОВЕДЕ ДО УЧАСТИЕ В „А“ РЕПУБЛИКАНСКА ХАНДБАЛНА ГРУПА ЗА ЖЕНИ И МЪЖЕ." : ""
+    },
+    {
+        text: bulgarian ? "ДА ВЗЕМЕМ УЧАСТИЕ В МЕЖДУНАРОДНИ ТУРНИРИ С ОТБОРИТЕ." : ""
+    }
+]
+
+export const contact = [
+    {
+        name: bulgarian ? "ДИМИТЪР ДЖЕПКОВ" : "Dimitar Dzhepkov",
+        title: bulgarian ? "СТАРШИ ТРЕНЬОР" : "Head Coach",
+        email: "",
+        phone: "0898575754"
+    },
+    {
+        name: bulgarian ? "ГАЛИН ЛАЗАРОВ" : "Galin Lazarov",
+        title: bulgarian ? "ПРЕДСЕДАТЕЛ" : "Chairman",
+        email: "galinlazarov1961@abv.bg",
+        phone: "0879486960"
+    }
+]

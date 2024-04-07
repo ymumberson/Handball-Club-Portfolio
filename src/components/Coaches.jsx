@@ -11,7 +11,7 @@ const Coaches = () => {
       <div className="coaches-card-section">
         {coaches.map((coach) => {
           return (
-            <Card style={{ width: "18rem", background: "azure" }}>
+            <Card style={{ width: "18rem", background: "azure", borderRadius: "10%" }}>
               <Card.Img
                 variant="top"
                 src={coach.img}
