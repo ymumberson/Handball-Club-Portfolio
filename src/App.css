@@ -180,3 +180,31 @@
     width: 100%;
   }
 }
+
+/* Coach Section Styles */
+
+.coaches-section {
+  background-color: #61dafb;
+}
+
+.coaches-card-section {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.blockquote {
+  border-left: 2px grey solid;
+  padding-left: 10px;
+}
+
+@media screen and (max-width: 780px) {
+  .coaches-card-section {
+    flex-direction: column;
+    padding: 0px;
+    gap: 15px;
+    margin: 0 auto;
+    align-items: center;
+  }
+}

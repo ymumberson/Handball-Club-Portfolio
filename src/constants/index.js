@@ -92,7 +92,7 @@ export const coaches = [
     {
         name: bulgarian ? "Емилия Самуилова" : "Emiliya Samuilova",
         title: bulgarian ? "младши треньор" : "Junior Coach",
-        img: "https://randomuser.me/api/portraits/lego/6.jpg"
+        img: "https://randomuser.me/api/portraits/lego/4.jpg"
     }
 ]
 
