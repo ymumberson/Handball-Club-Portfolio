@@ -5,7 +5,7 @@ import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
 
-const bulgarian = false;
+const bulgarian = true;
 
 export const navLinks = [
     {
@@ -205,6 +205,62 @@ export const achievementsList = [
                     },
                     {
                         achievement: bulgarian ? "Ж14-2РО МЯСТО" : "Ж14-2РО МЯСТО"
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        title: bulgarian ? "КЛАСИРАНЕ НА ДЪРЖАВЕН ФИНАЛ" : "STATE FINAL CLASSIFICATION",
+        dates: [
+            {
+                date: bulgarian ? "2018/2019Г." : "",
+                achievements: [
+                    {
+                        achievement: bulgarian ? "М11-6ТО МЯСТО" : "М11-6ТО МЯСТО"
+                    },
+                    {
+                        achievement: bulgarian ? "Ж11-5ТО МЯСТО" : "Ж11-5ТО МЯСТО"
+                    },
+                ]
+            },
+            {
+                date: bulgarian ? "2020/2021Г." : "",
+                achievements: [
+                    {
+                        achievement: bulgarian ? "Ж12-1ВО МЯСТО" : "Ж12-1ВО МЯСТО"
+                    },
+                    {
+                        achievement: bulgarian ? "ГАБРИЕЛА ГЕОРГИЕВА – НАЙ-ДОБЪР ВРАТАР" : "ГАБРИЕЛА ГЕОРГИЕВА – НАЙ-ДОБЪР ВРАТАР"
+                    },
+                    {
+                        achievement: bulgarian ? "НИКОЛ ДИМИТРОВА- НАЙ-ДОБЪР ЗАЩИТНИК" : "НИКОЛ ДИМИТРОВА- НАЙ-ДОБЪР ЗАЩИТНИК"
+                    },
+                ]
+            },
+            {
+                date: bulgarian ? "2021/2022Г." : "",
+                achievements: [
+                    {
+                        achievement: bulgarian ? "М11-3ТО МЯСТО" : "М11-3ТО МЯСТО"
+                    },
+                    {
+                        achievement: bulgarian ? "АЛЕКС ДАНАИЛОВ- НАЙ-ДОБЪР ВРАТАР" : "АЛЕКС ДАНАИЛОВ- НАЙ-ДОБЪР ВРАТАР"
+                    },
+                    {
+                        achievement: bulgarian ? "М14-6ТО МЯСТО" : "М14-6ТО МЯСТО"
+                    },
+                    {
+                        achievement: bulgarian ? "Ж12-2РО МЯСТО" : "Ж12-2РО МЯСТО"
+                    },
+                    {
+                        achievement: bulgarian ? "ЕДЖЕ ЮМЕР- ГОЛМАЙСТОР НА ПЪРВЕНСТВОТО" : "ЕДЖЕ ЮМЕР- ГОЛМАЙСТОР НА ПЪРВЕНСТВОТО"
+                    },
+                    {
+                        achievement: bulgarian ? "ЕДЖЕ ЮМЕР- НАЙ-ПОЛЕЗЕН СЪСТЕЗАТЕЛ" : "ЕДЖЕ ЮМЕР- НАЙ-ПОЛЕЗЕН СЪСТЕЗАТЕЛ"
+                    },
+                    {
+                        achievement: bulgarian ? "Ж14-3ТО МЯСТО" : "Ж14-3ТО МЯСТО"
                     },
                 ]
             },
