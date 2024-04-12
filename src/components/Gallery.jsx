@@ -9,7 +9,7 @@ const Gallery = () => {
         {navLinks.find((item) => item.id === "gallery").title}
       </h1>
       <div className="gallery-section">
-      <Carousel className="gallery-carousel">
+      <Carousel className="gallery-carousel" data-bs-theme="dark">
         {
             gallaryPhotos.map((item) => {
                 return (

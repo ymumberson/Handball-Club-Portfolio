@@ -5,8 +5,8 @@ const InfoSection = (props) => {
   return (
     <div className="info-section">
       <div className="info-section-container">
-        <h2 className="info-section-header"> {props.title} </h2>
-        <p className="info-section-text">{props.text}</p>
+        <h2 className="subsection-header info-section-header"> {props.title} </h2>
+        <p className="subsection-text info-section-text">{props.text}</p>
       </div>
 
       <div style={{ justifyContent: "center", display: "flex", alignItems: "center"}}>

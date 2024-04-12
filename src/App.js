@@ -29,7 +29,7 @@ function App() {
       <Partners />
       <Achievements />
       <Gallery />
-      <Legal />
+      {/* <Legal /> */}
       <Goals />
       <Contacts />
     </div>
