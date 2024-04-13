@@ -82,7 +82,7 @@
 }
 
 /* These CSS styles only apply to small screens */
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 1300px) {
   .hamburger {
     display: block;
     cursor: pointer;
@@ -117,7 +117,7 @@
     text-align: start;
     width: 100%;
     transition: 0.7s ease-in-out;
-    background-color: aliceblue;
+    background-color: rgb(208, 239, 189);
     padding: 10px;
   }
 

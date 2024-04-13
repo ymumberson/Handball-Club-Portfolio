@@ -5,7 +5,7 @@ import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
 
-const bulgarian = true;
+const bulgarian = false;
 
 export const navLinks = [
     {

@@ -47,7 +47,7 @@ const Welcome = () => {
     //   </Suspense>
     // </Canvas>
     // <div>Welcome</div>
-    <div style={{width: "100vw", aspectRatio: 16/6}}>
+    <div style={{width: "100%", aspectRatio: 16/6}}>
     <Canvas
       className="canvas"
       shadows
