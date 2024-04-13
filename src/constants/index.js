@@ -5,7 +5,7 @@ import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
 
-const bulgarian = true;
+const bulgarian = false;
 
 export const navLinks = [
     {
@@ -124,10 +124,10 @@ export const partners = [
         name: bulgarian ? "" : "",
         img: sofiaMunicipality
     },
-    {
-        name: bulgarian ? "" : "",
-        img: municipality
-    }
+    // {
+    //     name: bulgarian ? "" : "",
+    //     img: municipality
+    // }
 ]
 
 export const partnersNoImage = [
@@ -146,6 +146,9 @@ export const partnersNoImage = [
     {
         name: "117 СУ\"Св. Св. Кирил и Методий\""
     },
+    {
+        name: "ОБЩИНА КРЕМИКОВЦИ"
+    }
 ]
 
 export const achievementsText = [

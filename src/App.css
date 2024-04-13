@@ -266,3 +266,29 @@
   background-color: rgb(54, 53, 53);
   margin: 0 auto;
 }
+
+
+/* Partners content */
+.partners-section {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.partners-image-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.partner-image {
+  height: 300px;
+  width: auto;
+}
+
+.partners-text-container {
+  display: flex;
+  justify-content:space-evenly;
+  flex-wrap: wrap;
+  gap: 50px 200px;
+  padding: 0px 300px;
+}
