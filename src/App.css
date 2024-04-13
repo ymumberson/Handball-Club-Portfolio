@@ -292,3 +292,26 @@
   gap: 50px 200px;
   padding: 0px 300px;
 }
+
+/* Achievements content */
+
+.achievements-container {
+  display: flex;
+  justify-content:space-evenly;
+  gap: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+.achievement-list-container {
+  flex: 1;
+}
+
+.achievement-list-container-header {
+  /* text-align: center; */
+}
+
+.achievement-list-container-ul {
+
+  list-style: none;
+}
