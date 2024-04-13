@@ -380,3 +380,9 @@
   align-items: center;
   margin-left: 10px;
 }
+
+/* Contact content */
+
+.contact-container {
+  text-align: center;
+}
