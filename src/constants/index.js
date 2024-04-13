@@ -5,7 +5,7 @@ import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
 
-const bulgarian = false;
+const bulgarian = true;
 
 export const navLinks = [
     {
@@ -302,19 +302,19 @@ export const goals = [
     //     : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     // }
     {
-        text: bulgarian ? "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ." : ""
+        text: bulgarian ? "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     },
     {
-        text: bulgarian ? "УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ." : ""
+        text: bulgarian ? "УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     },
     {
-        text: bulgarian ? "СЪЗДАВАНЕ НА НАЦИОНАЛНИ СЪСТЕЗАТЕЛИ И В ДВАТА ПОЛА." : ""
+        text: bulgarian ? "СЪЗДАВАНЕ НА НАЦИОНАЛНИ СЪСТЕЗАТЕЛИ И В ДВАТА ПОЛА." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     },
     {
-        text: bulgarian ? "ПОВИШАВАНЕТО НА НИВОТО НА ВСИЧКИ СПОРТИСТИ В КЛУБА, КОЕТО ДА ДОВЕДЕ ДО УЧАСТИЕ В „А“ РЕПУБЛИКАНСКА ХАНДБАЛНА ГРУПА ЗА ЖЕНИ И МЪЖЕ." : ""
+        text: bulgarian ? "ПОВИШАВАНЕТО НА НИВОТО НА ВСИЧКИ СПОРТИСТИ В КЛУБА, КОЕТО ДА ДОВЕДЕ ДО УЧАСТИЕ В „А“ РЕПУБЛИКАНСКА ХАНДБАЛНА ГРУПА ЗА ЖЕНИ И МЪЖЕ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     },
     {
-        text: bulgarian ? "ДА ВЗЕМЕМ УЧАСТИЕ В МЕЖДУНАРОДНИ ТУРНИРИ С ОТБОРИТЕ." : ""
+        text: bulgarian ? "ДА ВЗЕМЕМ УЧАСТИЕ В МЕЖДУНАРОДНИ ТУРНИРИ С ОТБОРИТЕ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     }
 ]
 
