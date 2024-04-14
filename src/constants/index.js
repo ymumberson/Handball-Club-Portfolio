@@ -9,6 +9,7 @@ import logo from "../assets/logo.png"
 const bulgarian = false;
 
 export const teamLogo = logo;
+export const appName = "ХК \"Спортист Кремиковци 2018\"";
 
 export const navLinks = [
     {

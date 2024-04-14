@@ -18,6 +18,8 @@ import {
   Footer
 } from "./components";
 
+
+
 function App() {
   return (
     // <div style={{backgroundImage: `url(${background})`}}>
