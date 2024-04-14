@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   return (
-    <div>
+    <div id="navbar" className="sticky">
       <header>
         <nav className="navbar">
           <a href="#welcome" className="navMenuText">TODO_LOGO</a>

@@ -36,7 +36,7 @@ const ContactComponent = (props) => {
   if (props.contactValue) {
     return (
       <p className="contact-component-container">
-        <i class="material-icons">{props.iconKey}</i>
+        <i className="material-icons">{props.iconKey}</i>
         {props.contactValue}
       </p>
     );

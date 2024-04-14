@@ -21,32 +21,34 @@ function App() {
   return (
     // <div style={{backgroundImage: `url(${background})`}}>
     <div style={{ backgroundColor: "honeydew" }}>
-      <section id="welcome">
+      <section id="">
         <Navbar />
+      </section>
+      <section id="welcome" className="section-container">
         <Welcome />
       </section>
-      <section id="about">
+      <section id="about" className="section-container">
         <About />
       </section>
-      <section id="coaches">
+      <section id="coaches" className="section-container">
         <Coaches />
       </section>
-      <section id="services">
+      <section id="services" className="section-container">
         <Services />
       </section>
-      <section id="partners">
+      <section id="partners" className="section-container">
         <Partners />
       </section>
-      <section id="achievements">
+      <section id="achievements" className="section-container">
         <Achievements />
       </section>
-      <section id="gallery">
+      <section id="gallery" className="section-container">
         <Gallery />
       </section>
-      <section id="goals">
+      <section id="goals" className="section-container">
         <Goals />
       </section>
-      <section id="contact">
+      <section id="contacts" className="section-container">
         <Contacts />
       </section>
     </div>
