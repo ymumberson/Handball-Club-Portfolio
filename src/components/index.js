@@ -9,6 +9,7 @@ import Navbar from "./Navbar";
 import Partners from "./Partners";
 import Services from "./Services";
 import Welcome from "./Welcome";
+import Footer from "./Footer";
 
 export {
     About,
@@ -22,4 +23,5 @@ export {
     Partners,
     Services,
     Welcome,
+    Footer
 };

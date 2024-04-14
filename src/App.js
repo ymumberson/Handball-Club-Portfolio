@@ -15,6 +15,7 @@ import {
   Partners,
   Services,
   Welcome,
+  Footer
 } from "./components";
 
 function App() {
@@ -51,6 +52,7 @@ function App() {
       <section id="contacts" className="section-container">
         <Contacts />
       </section>
+      <Footer />
     </div>
   );
 }

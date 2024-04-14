@@ -4,8 +4,11 @@ import handballFederation from "../assets/bulgarian_handball_federation.png";
 import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
+import logo from "../assets/logo.png"
 
 const bulgarian = false;
+
+export const teamLogo = logo;
 
 export const navLinks = [
     {

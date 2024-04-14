@@ -37,6 +37,15 @@
   }
 }
 
+.team-logo {
+  height: 70px;
+  width: 70px;
+  max-height: 15vw;
+  max-width: 15vw;
+  border-radius: 50%;
+  margin-left: 20px;
+}
+
 .navbar {
   display: flex;
   align-items: center;
@@ -123,7 +132,7 @@
     position: absolute;
     flex-direction: column;
     gap: 0;
-    top: 70px;
+    top: 75px;
     left: -100%;
     text-align: start;
     width: 100%;
@@ -142,7 +151,7 @@
 }
 
 .section-container {
-  padding-top: 70px;
+  padding-top: 75px;
 }
 
 .section-header {
@@ -413,5 +422,15 @@
   gap: 4px;
   margin-bottom: 0;
   margin-top: 10px;
- 
+}
+
+/* Footer content */
+.footer {
+  width: 100%;
+  height: auto;
+  background-color: rgb(185, 213, 150);
+  text-align: center;
+  display: flex;
+  padding: 5px;
+  font-size: 10px;
 }

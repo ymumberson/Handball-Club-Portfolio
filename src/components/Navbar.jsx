@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { styles } from "../styles";
-import { navLinks } from "../constants";
+import { navLinks, teamLogo} from "../constants";
 
 const Navbar = () => {
   // adding the states
@@ -18,7 +18,7 @@ const Navbar = () => {
     <div id="navbar" className="sticky">
       <header>
         <nav className="navbar">
-          <a href="#welcome" className="navMenuText">TODO_LOGO</a>
+          <a href="#welcome" className="navMenuText"><img className="team-logo" src={teamLogo} alt="Team Logo"/></a>
           <ul className={`navMenu ${isActive ? "active" : ""}`} >
             {navLinks.map((link) => {
               return (
