@@ -279,6 +279,7 @@
 .partners-image-container {
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
 }
 
 .partner-image {
@@ -382,7 +383,20 @@
 }
 
 /* Contact content */
-
+.contacts-section {
+  display: flex;
+  flex-direction: column;
+}
 .contact-container {
   text-align: center;
+  margin-bottom: 10px;
+}
+
+.contact-component-container {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 0;
+  margin-top: 10px;
+ 
 }
