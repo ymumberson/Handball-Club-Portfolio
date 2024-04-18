@@ -1,0 +1,11 @@
+Model Information:
+* title:	Handball 1964
+* source:	https://sketchfab.com/3d-models/handball-1964-7961ab35937046e69b6820a018b03118
+* author:	urheilumuseo (https://sketchfab.com/urheilumuseo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handball 1964" (https://sketchfab.com/3d-models/handball-1964-7961ab35937046e69b6820a018b03118) by urheilumuseo (https://sketchfab.com/urheilumuseo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
