@@ -18,7 +18,7 @@ const Navbar = () => {
     <div id="navbar" className="sticky">
       <header>
         <nav className="navbar">
-          <a href="/" className="navMenuText"><img className="team-logo" src={teamLogo} alt="Team Logo"/></a>
+          <a href="#" className="navMenuText"><img className="team-logo" src={teamLogo} alt="Team Logo"/></a>
           <ul className={`navMenu ${isActive ? "active" : ""}`} >
             {navLinks.map((link) => {
               return (
