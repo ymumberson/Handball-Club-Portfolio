@@ -24,7 +24,7 @@ function App() {
   return (
     // <div style={{backgroundImage: `url(${background})`}}>
     <div style={{ backgroundColor: "honeydew" }}>
-      <section id="">
+      <section id="/">
         <Navbar />
       </section>
       <section id="welcome" className="section-container">
