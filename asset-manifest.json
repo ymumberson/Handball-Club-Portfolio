@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Handball-Club-Portfolio/static/css/main.33842b9d.css",
-    "main.js": "/Handball-Club-Portfolio/static/js/main.59243237.js",
+    "main.js": "/Handball-Club-Portfolio/static/js/main.bb0e0fb5.js",
     "static/js/453.90e103ba.chunk.js": "/Handball-Club-Portfolio/static/js/453.90e103ba.chunk.js",
     "static/media/aboutUs2.png": "/Handball-Club-Portfolio/static/media/aboutUs2.a4c129cc05e8902d2475.png",
     "static/media/aboutUs1.png": "/Handball-Club-Portfolio/static/media/aboutUs1.5e38f0050cdd475c6f4e.png",
@@ -14,11 +14,11 @@
     "static/media/logo.svg": "/Handball-Club-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Handball-Club-Portfolio/index.html",
     "main.33842b9d.css.map": "/Handball-Club-Portfolio/static/css/main.33842b9d.css.map",
-    "main.59243237.js.map": "/Handball-Club-Portfolio/static/js/main.59243237.js.map",
+    "main.bb0e0fb5.js.map": "/Handball-Club-Portfolio/static/js/main.bb0e0fb5.js.map",
     "453.90e103ba.chunk.js.map": "/Handball-Club-Portfolio/static/js/453.90e103ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33842b9d.css",
-    "static/js/main.59243237.js"
+    "static/js/main.bb0e0fb5.js"
   ]
 }
