@@ -6,7 +6,7 @@ import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
 import municipality from "../assets/municipality.jpeg";
 import logo from "../assets/logo.png"
 
-const bulgarian = false;
+const bulgarian = true;
 
 export const teamLogo = logo;
 export const appName = "ХК \"Спортист Кремиковци 2018\"";
