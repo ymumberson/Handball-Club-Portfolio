@@ -28,7 +28,7 @@ function App() {
         <Navbar />
       </section>
       <section id="welcome" className="section-container">
-        <Welcome />
+        {/* <Welcome /> */}
       </section>
       <section id="about" className="section-container">
         <About />

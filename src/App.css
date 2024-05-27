@@ -157,14 +157,21 @@
 .section-header {
   text-align: center;
   padding: 10px 0px 20px 0px;
-  font-weight: 10;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .subsection-header {
-  font-weight: 2;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .subsection-text {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
 
 /* About section */
