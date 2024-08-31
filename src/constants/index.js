@@ -1,5 +1,9 @@
-import aboutUs1 from "../assets/aboutUs1.png";
-import aboutUs2 from "../assets/aboutUs2.png";
+import img1 from "../assets/Images/IMG-20240831-WA0001.jpg";
+import img2 from "../assets/Images/IMG-20240831-WA0002.jpg";
+import img3 from "../assets/Images/IMG-20240831-WA0003.jpg";
+import img4 from "../assets/Images/IMG-20240831-WA0004.jpg";
+import img5 from "../assets/Images/IMG-20240831-WA0005.jpg";
+import img6 from "../assets/Images/IMG-20240831-WA0006.jpg";
 import handballFederation from "../assets/bulgarian_handball_federation.png";
 import ministry from "../assets/Ministry.png";
 import sofiaMunicipality from "../assets/СТОЛИЧНА ОБЩИНА.png";
@@ -65,7 +69,7 @@ export const aboutUs = [
         процес. Бяха сформирани два отбора момчета и момичета до
         11 години`
         : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        image: aboutUs1 
+        image: img1 
     },
     {
         title: bulgarian ? "НАШАТА МИСИЯ" : "Our Mission",
@@ -73,7 +77,7 @@ export const aboutUs = [
         деца към активен начин на живот, да изберат спорта
         пред опасните изкушения на съвремието.`
         : "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
-        image: aboutUs2
+        image: img2
     }
 ]
 
@@ -278,25 +282,22 @@ export const achievementsList = [
 /* PLACEHOLDER */
 export const gallaryPhotos = [
     {
-        img: "https://images.ctfassets.net/sfnkq8lmu5d7/4Ma58uke8SXDQLWYefWiIt/3f1945422ea07ea6520c7aae39180101/2021-11-24_Singleton_Puppy_Syndrome_One_Puppy_Litter.jpg?w=1000&h=750&fl=progressive&q=70&fm=jpg"
+        img: img1
     },
     {
-        img: "https://hips.hearstapps.com/hmg-prod/images/month-pure-breed-beagle-puppy-on-gray-screen-royalty-free-image-865226542-1566913909.jpg?resize=2048:*"
+        img: img2
     },
     {
-        img: "https://www.purina.co.uk/sites/default/files/styles/ttt_image_510/public/2021-09/Bichon%20Frise%20puppy%20running%20outside.jpg?itok=4FLM7MCl"
+        img: img3
     },
     {
-        img: "https://www.thesprucepets.com/thmb/YBO6dLNaRUrr34ra0W4KGim00q4=/6411x0/filters:no_upscale():strip_icc()/puppies-three-to-six-months-4570930-hero-bf2f59d75dcb4294991d6bd8cd51ec7c.jpg"
+        img: img4
     },
     {
-        img: "https://media.4-paws.org/1/e/d/6/1ed6da75afe37d82757142dc7c6633a532f53a7d/VIER%20PFOTEN_2019-03-15_001-2886x1999-1920x1330.jpg"
+        img: img5
     },
     {
-        img: "https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/1583002816518-ZH2PH7Y8NY21KG3YYKNL/Screen+Shot+2020-02-26+at+2.33.24+PM.png"
-    },
-    {
-        img: "https://hips.hearstapps.com/hmg-prod/images/popular-puppy-questions-1639736471.jpg?crop=0.670xw:1.00xh;0.282xw,0&resize=640:*"
+        img: img6
     },
 ]
 
