@@ -306,8 +306,11 @@ export const goals = [
     //     text: bulgarian ? "ОСНОВНИТЕ ЦЕЛИ ПРЕД НАС СА РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ, УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ, СЪЗДАВАНЕ НА НАЦИОНАЛНИ СЪСТЕЗАТЕЛИ И В ДВАТА ПОЛА. ПОВИШАВАНЕТО НА НИВОТО НА ВСИЧКИ СПОРТИСТИ В КЛУБА, КОЕТО ДА ДОВЕДЕ ДО УЧАСТИЕ В „А“ РЕПУБЛИКАНСКА ХАНДБАЛНА ГРУПА ЗА ЖЕНИ И МЪЖЕ. СЪЩО ТАКА С ОТБОРИТЕ ДА ВЗЕМЕМ УЧАСТИЕ В МЕЖДУНАРОДНИ ТУРНИРИ."
     //     : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     // }
+    // {
+    //     text: bulgarian ? "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
+    // },
     {
-        text: bulgarian ? "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
+        text: bulgarian ? "ПОДОБРЯВАНЕ НА ФИЗИЧЕСКИТЕ И ПСИХИЧЕСКИТЕ СПОСОБНОСТИ, РАЗВИВАНЕ НА ЕМОЦИОНАЛНИ И СОЦИАЛНИ ОТНОШЕНИЯ. ПОСТИГАНЕ НА ВИСОКИ СПОРТНИ РЕЗУЛТАТИ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
     },
     {
         text: bulgarian ? "УВЕЛИЧАВАНЕ БРОЯ НА СПОРТИСТИТЕ." : "РАЗВИВАНЕ НА МЛАДИ ТАЛАНТИ."
